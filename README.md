@@ -56,7 +56,7 @@ Skills are executed, measured, and evolved over time.
 ## 🛠️ Tech Stack
 
 ### Frontend
-- Next.js (Web)
+- React.js (Web)
 - React Native (Mobile)
 - WebSockets, WebRTC
 
